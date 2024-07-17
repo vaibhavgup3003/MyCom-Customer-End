@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-## flutter_ecommerce_app
+
+## Customer End Interface of MyCom Ecommerce Application
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/SinaSys/flutter_ecommerce_app">
@@ -95,9 +95,3 @@ Package Name        |
 [Japanese restaurant app](https://github.com/SinaSys/flutter_japanese_restaurant_app)| ![GitHub stars](https://img.shields.io/github/stars/SinaSys/flutter_japanese_restaurant_app?style=social)
 |[Office furniture store app](https://github.com/SinaSys/flutter_office_furniture_store_app) |![GitHub stars](https://img.shields.io/github/stars/SinaSys/flutter_office_furniture_store_app?style=social)
 
-
-
-=======
-# client_side
-Customer End Interface of MyCom Ecommerce Application
->>>>>>> c712e49e8fc8ee190f3e6e878390ea6fad43a1d6
